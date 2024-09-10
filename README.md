@@ -1,4 +1,4 @@
-# C Language Code Repository 🧑‍💻
+# C Language Code Repository 👦💻
 
 ## The Beginning of My Software Engineering Journey 🚀
 
